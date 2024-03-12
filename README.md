@@ -1,0 +1,1 @@
+# syndock-adminui
